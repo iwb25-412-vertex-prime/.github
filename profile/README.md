@@ -22,4 +22,5 @@ For comprehensive guides, API references, setup instructions, and interactive ex
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Whether it's reporting issues, improving documentation, or submitting pull requests — every bit helps. Please read our CONTRIBUTING.md for guidelines on how to get started.
+We welcome contributions from the community! Whether it's reporting issues, improving documentation, or submitting pull requests — every bit helps. Please read our [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines on how to get started.
+
